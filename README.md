@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing
 - 🌱 I’m currently learning html and python
 - 💞️ I’m looking to collaborate on blog
-- 📫 How to reach me drop a message on thewriter1003@gmail.com
+- 📫 to reach me drop a message on thewriter1003@gmail.com
 
 <!---
 AtiKavi/AtiKavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
